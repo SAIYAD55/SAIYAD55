@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SAIYAD5
 - Language-HTML,CSS,JAVASCRIPT,SQL
-- Technologies -JSP,servlets, Springboot(beginner)
+- Technologies -Go,JSP,servlets, Springboot(beginner)
 - Database-MySQL
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning java backend framework (Spring Boot).
+- 🌱
 - 💞️ I’m looking to collaborate on backend development projects.
 
 
