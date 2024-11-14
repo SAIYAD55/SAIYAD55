@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SAIYAD5
+- 👋 Hi, I’m SAIYAD
 - Language-Java,Go,SQL
-- Technologies -Gin,JSP,servlets.
+- Technologies/Frameworks-Gin,JSP,servlets.
 - Database- PostgreSQL,MySQL
-- 👀 I’m interested in Software development 
+- 👀  I’m looking to collaborate on backend development projects.
 - 🌱
--  I’m looking to collaborate on backend development projects.
+-  
