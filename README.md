@@ -1,7 +1,3 @@
 - 👋 Hi, I’m SAIYAD
-- Language-Java,Go,SQL
-- Technologies/Frameworks-Gin,JSP,servlets.
-- Database- PostgreSQL,MySQL
-- 👀  I’m looking to collaborate on backend development projects.
 - 🌱
 -  
